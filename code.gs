@@ -1,4 +1,4 @@
-var SPREADSHEET_ID = 'MASUKKAN_ID_SPREADSHIT!';
+var SPREADSHEET_ID = '1WP-JalmvHgWuBDjzXg2m1I6nLfNKywAI7N7ycwixleE';
 var SESSION_DURATION_HOURS = 24; // Durasi masa aktif token session (24 jam)
 
 // ==========================================
